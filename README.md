@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-##MY 5 FAVORITE MOVIES##
+**MY 5 FAVORITE MOVIES**
 
 1. Wall-E
 2. Matrix
